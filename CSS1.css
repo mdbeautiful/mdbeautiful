@@ -1,0 +1,18 @@
+
+.background{
+background:url(img/back.jpg) no-repeat  0px 0px;
+background-size:cover;
+background-attachment: fixed;
+};
+/*对目录进行修饰*/
+#Directory{
+  background-color:#eeeeee;
+  line-height:30px;
+  padding:10px;
+
+};
+/*清除ul il的.*/
+ul li{
+    list-style: none;
+};
+
